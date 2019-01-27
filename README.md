@@ -1,4 +1,9 @@
 # Faastruby
+
+FaaStRuby (https://faastruby.io/) é uma plataforma Serverless para desenvolvedores Ruby. Seu objetivo é prover serviços e toda a infraestrutura necessária para “funções” FaaS rodarem na nuvem, estarem disponíveis quando necessárias e executarem em tempo hábil.
+
+## Requisitos
+
 - ruby 2.6.0
 - Gem FaaStRuby
 
@@ -8,7 +13,7 @@ $ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A17
 
 $ curl -sSL https://get.rvm.io | bash -s stable --ruby
 ```
-Iniciando o projeto
+Passa-a-passo de como criar uma função
 
 01 - Criar um diretório
 ```
