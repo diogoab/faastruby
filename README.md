@@ -13,7 +13,7 @@ $ gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A17
 
 $ curl -sSL https://get.rvm.io | bash -s stable --ruby
 ```
-Passa-a-passo de como criar uma função
+## Passa-a-passo de como criar uma função
 
 01 - Criar um diretório
 ```
