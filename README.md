@@ -47,7 +47,7 @@ $faastruby\> faastruby list-workspace sua-workspace
 ``` 
 $faastruby\> cd sua-workspace
 ```
-10 -
+10 - Criando a função
 ``` 
 $faastruby\sua-workspace\> faastruby new hello-world
 $faastruby\sua-workspace\> cd hello-world
